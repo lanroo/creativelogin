@@ -59,13 +59,6 @@ A responsive and animated authentication system inspired by Dribbble's clean and
 
 ---
 
-### Screenshots
-
-![Login Page Preview](https://via.placeholder.com/800x400?text=Login+Page+Preview)
-![Sign-Up Page Preview](https://via.placeholder.com/800x400?text=Sign-Up+Page+Preview)
-
----
-
 ### Tech Stack
 
 - **Frontend**: React.js, Tailwind CSS, TypeScript
